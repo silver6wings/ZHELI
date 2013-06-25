@@ -1,0 +1,77 @@
+10
+
+dir
+297
+http://dev.wou.la/svn/zheli/iOS/trunk/_ZHELI/Three20/src/Three20Network
+http://dev.wou.la/svn/zheli
+
+
+
+2011-11-28T09:34:42.336133Z
+163
+yujunchao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5d3e109a-9e9a-49f3-9374-08ed911fe832
+
+Three20Network.xcodeproj
+dir
+
+UnitTests
+dir
+
+Sources
+dir
+
+NetworkRequestTimeoutTests.m
+file
+
+
+
+
+2012-03-02T07:15:16.000000Z
+19bead03522525d18bf88cc93777b28c
+2011-11-28T09:34:42.336133Z
+163
+yujunchao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4876
+
+Configurations
+dir
+
+Headers
+dir
+

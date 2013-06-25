@@ -1,0 +1,17 @@
+#import <Three20/Three20.h>
+
+#import "SWUtils.h"
+#import "ListModel.h"
+#import "LastButtonCell.h"
+#import "ContactPageTableItem.h"
+#import "ContactPageTableItemCell.h"
+
+
+@interface NearbyPageDataSource : TTListDataSource
+{
+    ListModel * myModel;
+}
+
++(NearbyPageDataSource*)pageDataSource;
+
+@end

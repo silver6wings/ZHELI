@@ -1,0 +1,70 @@
+10
+
+dir
+297
+http://dev.wou.la/svn/zheli/iOS/trunk/_ZHELI/Three20/src
+http://dev.wou.la/svn/zheli
+
+
+
+2011-11-28T09:34:42.336133Z
+163
+yujunchao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5d3e109a-9e9a-49f3-9374-08ed911fe832
+
+Three20UICommon
+dir
+
+Three20.bundle
+dir
+
+Three20Core
+dir
+
+Three20UINavigator
+dir
+
+UnitTests
+dir
+
+Three20Network
+dir
+
+extThree20CSSStyle
+dir
+
+extThree20JSON
+dir
+
+Three20UI
+dir
+
+scripts
+dir
+
+common
+dir
+
+Three20
+dir
+
+Three20Style
+dir
+
+extThree20XML
+dir
+

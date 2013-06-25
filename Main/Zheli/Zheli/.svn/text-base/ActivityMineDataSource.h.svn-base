@@ -1,0 +1,15 @@
+#import "Three20/Three20.h"
+#import "ListModel.h"
+#import "AMLastButtonCell.h"
+#import "ActivityMineDataSource.h"
+#import "ActivityPageTableItem.h"
+#import "ActivityPageTableItemCell.h"
+
+@interface ActivityMineDataSource : TTListDataSource
+{
+    ListModel * myModel;
+}
+
++(ActivityMineDataSource *) pageDataSource;
+
+@end

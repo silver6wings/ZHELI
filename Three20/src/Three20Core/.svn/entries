@@ -1,0 +1,77 @@
+10
+
+dir
+297
+http://dev.wou.la/svn/zheli/iOS/trunk/_ZHELI/Three20/src/Three20Core
+http://dev.wou.la/svn/zheli
+
+
+
+2011-11-28T09:34:42.336133Z
+163
+yujunchao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5d3e109a-9e9a-49f3-9374-08ed911fe832
+
+README.mdown
+file
+
+
+
+
+2012-03-02T07:15:14.000000Z
+31b44147762f7a53c4831123cb961178
+2011-11-28T09:34:42.336133Z
+163
+yujunchao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1828
+
+UnitTests
+dir
+
+Sources
+dir
+
+Configurations
+dir
+
+Headers
+dir
+
+Three20Core.xcodeproj
+dir
+

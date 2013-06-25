@@ -1,0 +1,71 @@
+10
+
+dir
+297
+http://dev.wou.la/svn/zheli/iOS/trunk/_ZHELI/Three20/templates/source/Three20%20Class/Three20%20class
+http://dev.wou.la/svn/zheli
+
+
+
+2011-11-28T09:34:42.336133Z
+163
+yujunchao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5d3e109a-9e9a-49f3-9374-08ed911fe832
+
+TTDefaultStyleSheet subclass.pbfiletemplate
+dir
+
+TTViewController subclass.pbfiletemplate
+dir
+
+TemplateChooser.plist
+file
+
+
+
+
+2012-03-02T07:15:18.000000Z
+3ba8519364503ee004b4b907c8511d30
+2011-11-28T09:34:42.336133Z
+163
+yujunchao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+987
+
+TTTableViewController subclass.pbfiletemplate
+dir
+

@@ -1,0 +1,16 @@
+#import <Three20/Three20.h>
+
+#import "CLastButtonCell.h"
+#import "ContactPageTableItem.h"
+#import "ContactPageTableItemCell.h"
+
+#import "ListModel.h"
+
+@interface ContactPageDataSource : TTListDataSource
+{
+    ListModel * myModel;
+}
+
++(ContactPageDataSource *)pageDataSource;
+
+@end
